@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishantjoshi-007&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/67b277df98abd86c99cf8764?variant=dark&roadmaps=datastructures-and-algorithms%2Cjava)](https://roadmap.sh)
 <!-- ### 🔝 Top Contributed Repo -->
 <!--![](https://github-contributor-stats.vercel.app/api?username=nishantjoshi-007&limit=5&theme=prussian&combine_all_yearly_contributions=true) -->
 
