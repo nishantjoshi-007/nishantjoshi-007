@@ -49,9 +49,9 @@
 <a href="https://www.buymeacoffee.com/nishant.joshi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishantjoshi-007&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- # 📈 RoadMap.sh Stats:
 [![roadmap.sh](https://roadmap.sh/card/wide/67b277df98abd86c99cf8764?variant=dark&roadmaps=datastructures-and-algorithms%2Cjava)](https://roadmap.sh) -->
