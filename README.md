@@ -65,7 +65,6 @@ const nishant = {
 - **OutcomesHub** &nbsp;·&nbsp; `Node/Express` `PostgreSQL` `Chart.js` — consolidates graduation outcomes from 7–8 sources with RBAC, CSV ingestion & rollback. Holds **15–17K records** and cut reporting from **1–4 hours → ~10–30 min**.
 - **EPI** &nbsp;·&nbsp; `React` `TypeScript` `Supabase` `Recharts` — employer-engagement dashboard with tiered scoring and Jaro-Winkler fuzzy company matching across **700+ employers**, with upload rollback & merge tooling.
 - **CFM** &nbsp;·&nbsp; `React` `Supabase` — realtime career-fair check-in with kiosk mode & employer search; scaled to **210+ employers / 750–800 reps**, cutting check-in from **~2 min → ~30 sec**.
-- **Merck Capstone** &nbsp;·&nbsp; `Azure` `MySQL` `Linux` — hardened an Ubuntu VM (SSH-key access, firewall IP allow-listing, role-based DB access, audit logging) for a sponsored workflow-modernization project.
 
 </details>
 
