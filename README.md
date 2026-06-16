@@ -1,127 +1,70 @@
-# 🌌 SYSTEM DEPLOYMENT: NISHANT JOSHI
+# 💫 About Me:
 
-### `Software Engineer // Platform Modernization // Full-Stack & AI Systems`
+👋 Hey, I’m Nishant Joshi — a developer who somehow thinks breaking things and then fixing them is a fun way to spend life. I build stuff that mixes creativity with code: mostly Python, Django, MERN, and the occasional React Native rabbit hole. I love turning vague ideas into working systems (usually after way too much coffee). My projects range from AI experiments that actually work to dashboards that make data behave.
 
-<p align="center">
-  <a href="https://nishantjoshi.me" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQHbUwxxSeFlOg/profile-displayphoto-scale_400_400/B4EZnLNhWoIkAk-/0/1760050948782?e=1782950400&v=beta&t=uusrtA-qxx0B-DHy6XtV8of-b5hS9N_ni3QaMj-BDus" width="160" height="160" alt="Nishant Joshi Portrait" style="border-radius: 50%; border: 2px solid #a3e635; box-shadow: 0 0 15px rgba(163, 230, 53, 0.3); margin-bottom: 20px" />
-  </a>
-</p>
+**_If curiosity had a version control system, I’d be pushing commits daily._**
 
-```micro
-[SYSTEM INIT] -> LOADING CORE METRICS...
-========================================================================
-USER:       nishantjoshi-007
-ROLE:       Full-Stack & AI Engineer (NJIT alumnus)
-ZONE:       Edison, NJ (40.5187° N / 74.4121° W)
-STATUS:     OPEN TO OPPORTUNITIES ● Active Nodes Running
-Uptime:     Continuous Learning Loop Since 2022
-========================================================================
-```
+## 🌐 Socials:
 
-👋 **Hey, I’m Nishant.**  
-I am a hybrid engineer who bridges the gap between structured enterprise platform modernization and rapid AI system orchestration. I specialize in replacing legacy architectures with clean modern environments, writing bulletproof data-handling loops, and deploying neural pipelines that bring actual business metrics up (not just concept slides).
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/932509370485465108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-joshi-)
 
-Instead of chasing generic tech trends, I build carefully documented, low-latency tools designed around real human usage.
+## 🧩 What I Code In
 
----
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📈 SYSTEM TELEMETRY (IMPACT METRICS)
+## ☁️ Where I Deploy
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ▶  6+ Production-grade Apps Shipped                         │
-│  ▶  17K+ Records Managed dynamically with transaction safety │
-│  ▶  70% Average reduction in process latency for operations │
-│  ▶  5+ High-impact Internal Tools deployed across workspaces │
-└──────────────────────────────────────────────────────────────┘
-```
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+## ⚙️ What I Build With
 
-## 💻 WORKSPACE CONFIGURATION (TECH STACK)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-Refined architecture selection based on execution constraints and modern patterns:
+## 🗃️ Where I Store Data
 
-```yml
-Core Subsystems:
-  Frontend Node: [TypeScript, React / React Native, Next.js, TailwindCSS, Expo, Recharts]
-  Backend Engine: [Python, Django, FastAPI, Node.js / Express, GraphQL, REST, SMTP/Cron]
-  AI & Deep Learning: [PyTorch, TensorFlow, Whisper, Argos Translate, Coqui TTS, OpenAI API]
-  Data & Clusters: [PostgreSQL, Supabase, MongoDB Atlas, SQLite, MySQL]
-  DevOps & Tooling: [Docker, Linux, Git / Version Control, AWS (EC2, S3), Azure VMs]
-```
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+## 🎨 How I Design
 
-## 🛸 ACTIVE DEPLOYED MODULES (PROJECTS)
+![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-| Module                                                | Category     | Description                                                                                                                             | Primary Engine                  | Status      |
-| :---------------------------------------------------- | :----------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ | :---------- |
-| **[TasteTrail](https://github.com/nishantjoshi-007)** | `Mobile`     | Personalized cross-platform culinary discovery with a deep Taste-Graph engine. Reached 7.6k+ downloads and 112k+ visual impressions.    | Expo · React Native · FastAPI   | Deployed 🟢 |
-| **[TRAVaiL](https://travail.world)**                  | `AI`         | Generative multi-day itinerary coordinator. Adapts to real-time travel variables, utilizing a composite prompt orchestration structure. | FastAPI · React · OpenAI        | Deployed 🟢 |
-| **[Automailr](https://github.com/nishantjoshi-007)**  | `Full-Stack` | Privacy-focused browser-bound bulk communication hub. Safe client-side local caching, attachments, rate limits + tracking.              | TS · Gmail Engine · Client-only | Stable 🟡   |
-| **[DubBuddy](https://github.com/nishantjoshi-007)**   | `AI/ML`      | Automated deep translation & lip-synchronized localized audio generator. Extracted and containerized as an end-to-end ML pipeline.      | PyTorch · Coqui · Docker · AWS  | Sandbox 🔵  |
+<!--
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+-->
 
----
+<!--
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+-->
 
-## 🛠️ OPERATIONAL ARCHITECTURE (EXPERIENCE)
+## 🫰 Donate:
 
-### **Software Developer — Contempo Space**
+<a href="https://www.buymeacoffee.com/nishant.joshi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-_Passaic, NJ · March 2026 – Present_  
-Modernizing legacy e-commerce operations, shifting systems off legacy Magento platforms.
+# 📊 GitHub Stats:
 
-- Leading platform modernization transitions, assessing migration structures for high-traffic ERP/CRM frameworks.
-- Structuring core behaviors across CRM and CPQ paths with GraphQL endpoints to maintain clear trace logs and solid developer handover lines.
+<!-- ![](https://github-readme-stats.vercel.app/api?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-### **Internal Tools Developer Intern — NJIT Career Services**
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishantjoshi-007&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-_Newark, NJ · Jan 2024 – March 2026_  
-Engineered specialized data tooling that reduced administrative backlogs.
+<!-- # 📈 RoadMap.sh Stats:
+[![roadmap.sh](https://roadmap.sh/card/wide/67b277df98abd86c99cf8764?variant=dark&roadmaps=datastructures-and-algorithms%2Cjava)](https://roadmap.sh) -->
 
-- **OutcomesHub (Node.js/Express, PostgreSQL, Chart.js)**: Replaced multi-source manual reporting sheets with automated CSV transaction handling, role access, and safe rollbacks. Scaled to keep 17k records fast. Slid operational turnaround from 4 hours down to **~15 minutes**.
-- **EPI Dashboard (React, Supabase, TypeScript)**: Built tracking maps for 700+ enterprise employers. Coded Jaro-Winkler string distance comparisons and instant metric scorecards.
-- **CFM Real-time Hub (React, Supabase)**: Integrated realtime socket alerts, custom lobby directories, and rep finders. Optimized check-in time for 800+ attendees from ~2 minutes to **under 40 seconds**.
+<!-- ### 🔝 Top Contributed Repo -->
+<!--![](https://github-contributor-stats.vercel.app/api?username=nishantjoshi-007&limit=5&theme=prussian&combine_all_yearly_contributions=true) -->
 
-### **Software Engineering Capstone — Merck**
-
-_Sept 2024 – Dec 2024_
-
-- Implemented core infrastructure controls on an Azure instance, applying explicit firewall IP filters and detailed audit streaming records for critical team workflows on MySQL.
-
----
-
-## 📊 LIVE TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantjoshi-007&theme=tokyonight&hide_border=false" alt="Nishant's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjoshi-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nishant's Most Used Languages" />
-</p>
-
----
-
-## 📡 INTENT CONFIGURATION
-
-```json
-{
-  "looking_for": "Collaborative, metrics-driven Engineering teams",
-  "preferred_stack": ["TypeScript", "Python", "FastAPI", "React", "PostgreSQL"],
-  "philosophy": "Build robust, simple, human-centric software. If it doesn't move a metric, don't ship it."
-}
-```
-
-<p align="center">
-  <a href="https://linkedin.com/in/nishant-joshi-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:contact@nishantjoshi.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Email" />
-  </a>
-  <a href="https://buymeacoffee.com/nishant.joshi" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-FF8F3F?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Support" />
-  </a>
-</p>
+<!-- ![](https://visitcount.itsvg.in/api?id=nishantjoshi-007&icon=8&color=1)](https://visitcount.itsvg.in) -->
