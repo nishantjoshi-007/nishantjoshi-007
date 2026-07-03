@@ -88,6 +88,7 @@ const nishant = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  04 · TELEMETRY  ░░░░░░░░░░░░░░░░░░░░ -->
 
+<!--
 `04 · TELEMETRY`
 ## GitHub signal
 
@@ -105,6 +106,7 @@ const nishant = {
 </p>
 
 <br />
+-->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  05 · CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
 
@@ -124,7 +126,7 @@ I'm open to full-time roles and ambitious collaborations. Tell me what you're bu
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center"><sub><code>© 2026 · NISHANT JOSHI · EDISON, NJ · 40.5187° N / 74.4121° W · built with caffeine &amp; curiosity</code></sub></p>
+<p align="center"><sub><code>© 2026 · NISHANT JOSHI · EDISON, NJ · built with caffeine &amp; curiosity</code></sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishantjoshi-007&style=flat-square&color=C6F24E&labelColor=0A0A0B&label=PROFILE+VIEWS" alt="Profile views" />
