@@ -52,10 +52,10 @@ const nishant = {
 
 | `id` | Project | What it is | Stack |
 |:----:|---------|------------|-------|
-| `01` | **[TasteTrail](https://nishantjoshi.me)** | Cross-platform culinary discovery — personalized recipes + nearby restaurant finder. **7.6K+ downloads · 112K impressions.** | `React Native` · `Expo` · `FastAPI` · `Supabase` |
-| `02` | **[TRAVaiL ↗](https://travail.world)** | AI travel orchestration — turns natural-language intent into multi-day itineraries, balancing budget & pace in real time. **Live.** | `React` · `Django` · `OpenAI` · `MongoDB` |
-| `03` | **[DubBuddy](https://github.com/nishantjoshi-007)** | End-to-end neural video-dubbing pipeline — Whisper → translate → TTS, synced and containerized on AWS. | `FastAPI` · `Whisper` · `Docker` · `AWS` |
-| `04` | **[Automailr](https://github.com/nishantjoshi-007)** | Client-side bulk email — personalized outreach through your own Gmail, encrypted session, zero backend. | `TypeScript` · `Gmail API` |
+| `01` | **[TasteTrail](https://tastetrail.nishantjoshi.me/)** | Cross-platform culinary discovery — personalized recipes + nearby restaurant finder. **7.6K+ downloads · 112K impressions.** | `React Native` · `Expo` · `FastAPI` · `Supabase` |
+| `02` | **[TRAVaiL ↗](http://travail.nishantjoshi.me/)** | AI travel orchestration — turns natural-language intent into multi-day itineraries, balancing budget & pace in real time. **Live.** | `React` · `Django` · `OpenAI` · `MongoDB` |
+| `03` | **[DubBuddy](https://github.com/nishantjoshi-007/DubBuddy)** | End-to-end neural video-dubbing pipeline — Whisper → translate → TTS, synced and containerized on AWS. | `FastAPI` · `Whisper` · `Docker` · `AWS` |
+| `04` | **[Automailr](https://automailr.nishantjoshi.me/)** | Client-side bulk email — personalized outreach through your own Gmail, encrypted session, zero backend. | `TypeScript` · `Gmail API` |
 
 <details>
   <summary><b>&nbsp;▸&nbsp; In production — internal tools @ NJIT Career Development Services</b></summary>
@@ -108,9 +108,9 @@ const nishant = {
 <br />
 -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  05 · CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░  04 · CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
 
-`05 · DIRECT LINE`
+`04 · DIRECT LINE`
 ## Let's build something worth shipping
 
 <p>
