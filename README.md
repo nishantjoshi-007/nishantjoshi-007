@@ -20,8 +20,6 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  01 · WHOAMI  ░░░░░░░░░░░░░░░░░░░░ -->
 
-`01 · SYSTEM READOUT`
-
 ## whoami
 
 ```ts
@@ -48,18 +46,14 @@ const nishant = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  02 · SELECTED WORK  ░░░░░░░░░░░░░░░░░░░░ -->
 
-`02 · FEATURED PROJECTS`
-
 ## Selected work
 
-| `id` | Project                                                                                  | What it is                                                                                                                                                                                                                        | Stack                                                         |
-| :--: | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| `01` | **[TasteTrail](https://tastetrail.nishantjoshi.me/)**                                    | Cross-platform culinary discovery: personalized recipes plus a nearby restaurant finder. **7.65K downloads · 112K impressions.**                                                                                                  | `React Native` · `Expo` · `FastAPI` · `Supabase`              |
-| `02` | **[Respeak](https://github.com/nishantjoshi-007/Respeak)**                               | Local-first video dubbing: faster-whisper transcribes, Argos translates offline, Kokoro or Chatterbox re-voices, ffmpeg builds the MP4. Open-source models only, no paid API. **359 offline tests, CI on three Python versions.** | `Python` · `FastAPI` · `faster-whisper` · `ffmpeg` · `Docker` |
-| `03` | **[CarVis](https://carvis-dashboard.onrender.com/)**                                     | Car-market analytics on a PostgreSQL star schema, with a full ETL pipeline and a gradient-boosting price model. **Live.**                                                                                                         | `Python` · `PostgreSQL` · `Dash` · `scikit-learn` · `Docker`  |
-| `04` | **[ApplyAI](https://chromewebstore.google.com/detail/omolahemkjfmdoiimflbkfmdmpidgedi)** | Tailored cover letters generated from a job posting, entirely local to the browser. **Published on the Chrome Web Store.**                                                                                                        | `JavaScript` · `Chrome Extension` · `Gemini`                  |
-| `05` | **[Automailr](https://automailr.nishantjoshi.me/)**                                      | Client-side bulk email: personalized outreach through your own Gmail, encrypted session, zero backend.                                                                                                                            | `TypeScript` · `Gmail API`                                    |
-| `06` | **[TRAVaiL](https://travail.nishantjoshi.me/)**                                          | AI travel orchestration: turns natural-language intent into multi-day itineraries, balancing budget and pace in real time. **Live.**                                                                                              | `React` · `Django` · `OpenAI` · `MongoDB`                     |
+| `id` | Project                                                    | What it is                                                                                                                                                                                                                        | Stack                                                         |
+| :--: | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| `01` | **[TasteTrail](https://tastetrail.nishantjoshi.me/)**      | Cross-platform culinary discovery: personalized recipes plus a nearby restaurant finder. **7.65K downloads · 112K impressions.**                                                                                                  | `React Native` · `Expo` · `FastAPI` · `Supabase`              |
+| `02` | **[TRAVaiL](https://travail.nishantjoshi.me/)**            | AI travel orchestration: turns natural-language intent into multi-day itineraries, balancing budget and pace in real time. **Live.**                                                                                              | `React` · `Django` · `OpenAI` · `MongoDB`                     |
+| `03` | **[Respeak](https://github.com/nishantjoshi-007/Respeak)** | Local-first video dubbing: faster-whisper transcribes, Argos translates offline, Kokoro or Chatterbox re-voices, ffmpeg builds the MP4. Open-source models only, no paid API. **359 offline tests, CI on three Python versions.** | `Python` · `FastAPI` · `faster-whisper` · `ffmpeg` · `Docker` |
+| `04` | **[CarVis](https://carvis-dashboard.onrender.com/)**       | Car-market analytics on a PostgreSQL star schema, with a full ETL pipeline and a gradient-boosting price model. **Live.**                                                                                                         | `Python` · `PostgreSQL` · `Dash` · `scikit-learn` · `Docker`  |
 
 <details>
   <summary><b>&nbsp;▸&nbsp; In production: internal tools @ NJIT Career Development Services</b></summary>
@@ -77,12 +71,9 @@ const nishant = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  03 · STACK  ░░░░░░░░░░░░░░░░░░░░ -->
 
-`03 · STACK INDEX`
-
 ## Tools of the trade
 
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**    | ![Python](https://img.shields.io/badge/Python-131314?style=flat-square&logo=python&logoColor=C6F24E) ![TypeScript](https://img.shields.io/badge/TypeScript-131314?style=flat-square&logo=typescript&logoColor=C6F24E) ![JavaScript](https://img.shields.io/badge/JavaScript-131314?style=flat-square&logo=javascript&logoColor=C6F24E) ![SQL](https://img.shields.io/badge/SQL-131314?style=flat-square&logoColor=C6F24E) ![Java](https://img.shields.io/badge/Java-131314?style=flat-square&logo=openjdk&logoColor=C6F24E)                            |
 | **Frontend**     | ![React](https://img.shields.io/badge/React-131314?style=flat-square&logo=react&logoColor=C6F24E) ![Next.js](https://img.shields.io/badge/Next.js-131314?style=flat-square&logo=nextdotjs&logoColor=C6F24E) ![React Native](https://img.shields.io/badge/React_Native-131314?style=flat-square&logo=react&logoColor=C6F24E) ![Tailwind](https://img.shields.io/badge/Tailwind-131314?style=flat-square&logo=tailwindcss&logoColor=C6F24E) ![Three.js](https://img.shields.io/badge/Three.js-131314?style=flat-square&logo=threedotjs&logoColor=C6F24E) ![Expo](https://img.shields.io/badge/Expo-131314?style=flat-square&logo=expo&logoColor=C6F24E) |
 | **Backend**      | ![Node.js](https://img.shields.io/badge/Node.js-131314?style=flat-square&logo=nodedotjs&logoColor=C6F24E) ![Express](https://img.shields.io/badge/Express-131314?style=flat-square&logo=express&logoColor=C6F24E) ![FastAPI](https://img.shields.io/badge/FastAPI-131314?style=flat-square&logo=fastapi&logoColor=C6F24E) ![Django](https://img.shields.io/badge/Django-131314?style=flat-square&logo=django&logoColor=C6F24E) ![GraphQL](https://img.shields.io/badge/GraphQL-131314?style=flat-square&logo=graphql&logoColor=C6F24E)              |
@@ -115,8 +106,6 @@ const nishant = {
 -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  04 · CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
-
-`04 · DIRECT LINE`
 
 ## Let's build something worth shipping
 
