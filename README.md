@@ -48,12 +48,12 @@ const nishant = {
 
 ## Selected work
 
-| `id` | Project                                                    | What it is                                                                                                                                                                                                                        | Stack                                                         |
-| :--: | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| `01` | **[TasteTrail](https://tastetrail.nishantjoshi.me/)**      | Cross-platform culinary discovery: personalized recipes plus a nearby restaurant finder. **7.65K downloads · 112K impressions.**                                                                                                  | `React Native` · `Expo` · `FastAPI` · `Supabase`              |
-| `02` | **[TRAVaiL](https://travail.nishantjoshi.me/)**            | AI travel orchestration: turns natural-language intent into multi-day itineraries, balancing budget and pace in real time. **Live.**                                                                                              | `React` · `Django` · `OpenAI` · `MongoDB`                     |
-| `03` | **[Respeak](https://github.com/nishantjoshi-007/Respeak)** | Local-first video dubbing: faster-whisper transcribes, Argos translates offline, Kokoro or Chatterbox re-voices, ffmpeg builds the MP4. Open-source models only, no paid API. **359 offline tests, CI on three Python versions.** | `Python` · `FastAPI` · `faster-whisper` · `ffmpeg` · `Docker` |
-| `04` | **[CarVis](https://carvis-dashboard.onrender.com/)**       | Car-market analytics on a PostgreSQL star schema, with a full ETL pipeline and a gradient-boosting price model. **Live.**                                                                                                         | `Python` · `PostgreSQL` · `Dash` · `scikit-learn` · `Docker`  |
+| Project                                                    | What it is                                                                                                                                                                                                                        | Stack                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **[TasteTrail](https://tastetrail.nishantjoshi.me/)**      | Cross-platform culinary discovery: personalized recipes plus a nearby restaurant finder. **7.65K downloads · 112K impressions.**                                                                                                  | `React Native` · `Expo` · `FastAPI` · `Supabase`              |
+| **[TRAVaiL](https://travail.nishantjoshi.me/)**            | AI travel orchestration: turns natural-language intent into multi-day itineraries, balancing budget and pace in real time. **Live.**                                                                                              | `React` · `Django` · `OpenAI` · `MongoDB`                     |
+| **[Respeak](https://github.com/nishantjoshi-007/Respeak)** | Local-first video dubbing: faster-whisper transcribes, Argos translates offline, Kokoro or Chatterbox re-voices, ffmpeg builds the MP4. Open-source models only, no paid API. **359 offline tests, CI on three Python versions.** | `Python` · `FastAPI` · `faster-whisper` · `ffmpeg` · `Docker` |
+| **[CarVis](https://carvis-dashboard.onrender.com/)**       | Car-market analytics on a PostgreSQL star schema, with a full ETL pipeline and a gradient-boosting price model. **Live.**                                                                                                         | `Python` · `PostgreSQL` · `Dash` · `scikit-learn` · `Docker`  |
 
 <details>
   <summary><b>&nbsp;▸&nbsp; In production: internal tools @ NJIT Career Development Services</b></summary>
@@ -179,7 +179,7 @@ I'm open to full-time roles and ambitious collaborations. Tell me what you're bu
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center"><sub><code>© 2026 · NISHANT JOSHI · EDISON, NJ · built with caffeine &amp; curiosity</code></sub></p>
+<p align="center"><sub><code>© 2026 · NISHANT JOSHI · built with caffeine &amp; curiosity</code></sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishantjoshi-007&style=flat-square&color=C6F24E&labelColor=0A0A0B&label=PROFILE+VIEWS" alt="Profile views" />
